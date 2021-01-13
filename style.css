@@ -48,12 +48,13 @@ z-index: 1;
 .title{
 	font-family: r-b ;
 	text-align: center;
-	font-size: 40px;
-	line-height: 40px;
+	    font-size: 55px;
+    line-height: 58px;
 	margin-top: 5px;
 }
 .intro__title{
      color: #75b800;
+     font-size: 60px;
 }
 
 .intro{
@@ -67,7 +68,7 @@ z-index: 1;
 .bear__blocks{
 	display: flex;
 	justify-content: center;
-	margin-top: 35px;
+	margin-top: 80px;
 }
 .bears{
 	width: 170px;
@@ -222,7 +223,8 @@ footer{
 .herb__blocks{
 	display: flex;
 	justify-content: center;
-	margin-top: 25px;
+	margin-top: 55px;
+	    margin-bottom: 50px;
 }
 
 .spazm__title{
@@ -284,6 +286,7 @@ margin-right: 100px;
 
 .herb1{
 	margin-right: 56px;
+	width: 200px;
 }
 .herb1:nth-child(4){
 	margin-right: 0;
@@ -296,6 +299,7 @@ margin-right: 100px;
 }
 .herb3{
 	margin-right: 56px;
+	width: 290px;
 }
 .herb3:nth-child(3){
 	margin-right: 0;
@@ -303,12 +307,12 @@ margin-right: 100px;
 
 
 .buy__block{
-	margin-top: 30px;
+	margin-top: 15px;
 }
 
 .buy__title{
 	font-family: r-b;
-	font-size: 40px;
+	font-size: 35px;
 	color: #75b800;
 	text-align: center;
 }
@@ -323,20 +327,20 @@ margin-right: 100px;
 }
 
 .img__apteka{
-width: 135px;
-height: 35px;
+width: 115px;
+height: 30px;
 }
 .img__altai{
-	width: 171px;
-	height: 50px;
+	width: 136px;
+	height: 40px;
 }
 .img__sima{
-	width: 160px;
-	height: 50px;
+	width: 128px;
+	height: 40px;
 }
 .img__planeta{
-	width: 205px;
-	height: 50px;
+	width: 164px;
+	height: 40px;
 }
 .buy__a{
 	display: flex;
@@ -352,6 +356,10 @@ height: 35px;
 .buy__blocks{
 	margin-top: 30px;
 	text-align: center;
+}
+
+.buy__blocks:nth-child(1){
+	padding-bottom: 20px;
 }
 
 .down__buy{
